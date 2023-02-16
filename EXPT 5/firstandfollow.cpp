@@ -167,3 +167,20 @@ int main()
 	}
 	return 0;;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// https://www.courpedia.com/2022/12/c-code-to-get-first-and-follow.html
