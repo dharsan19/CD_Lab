@@ -1,3 +1,5 @@
+# Write a program to construct a Non Deterministic Finite Automata (NFA) from Regular Expression using C/ C++/ Java
+```c
 #include<stdio.h>
 #include<string.h>
 int main()
@@ -67,3 +69,4 @@ int main()
 	printf("\n_____________________________________\n");
 	return 0;
 }
+```

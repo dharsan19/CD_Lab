@@ -1,3 +1,5 @@
+# Write a program to implement the Lexical Analyzer using C/ C++/ Java
+```cpp
 #include<iostream>
 #include<fstream>
 #include<stdlib.h>
@@ -61,3 +63,4 @@ int main(){
     
     return 0;
 }
+```
